@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HW\Task\T004\bin\Debug\net6.0\T004.exe
+C:\Users\user\Desktop\HW\Task\T004\bin\Debug\net6.0\T004.deps.json
+C:\Users\user\Desktop\HW\Task\T004\bin\Debug\net6.0\T004.runtimeconfig.json
+C:\Users\user\Desktop\HW\Task\T004\bin\Debug\net6.0\T004.dll
+C:\Users\user\Desktop\HW\Task\T004\bin\Debug\net6.0\T004.pdb
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.AssemblyInfo.cs
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.dll
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\refint\T004.dll
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.pdb
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\T004.genruntimeconfig.cache
+C:\Users\user\Desktop\HW\Task\T004\obj\Debug\net6.0\ref\T004.dll
